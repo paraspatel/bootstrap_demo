@@ -16,7 +16,7 @@ group :assets do
 
   # See https://github.com/sstephenson/execjs#readme for more supported runtimes
  # gem 'therubyracer', :platforms => :ruby
- # gem "therubyracer-heroku", :platforms => [:ruby]
+  gem "therubyracer-heroku", :platforms => [:ruby]
 
 #   gem 'twitter-bootstrap-rails'
  # gem 'less-rails-bootstrap'
@@ -47,3 +47,4 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
+
