@@ -16,12 +16,12 @@ group :assets do
 
   # See https://github.com/sstephenson/execjs#readme for more supported runtimes
  # gem 'therubyracer', :platforms => :ruby
-  gem "therubyracer-heroku", :platforms => [:ruby]  #comment it
+#  gem "therubyracer-heroku", :platforms => [:ruby]  #comment it
 
 #   gem 'twitter-bootstrap-rails'
  # gem 'less-rails-bootstrap'
 
-  gem 'twitter-bootstrap-rails', :git => 'https://github.com/seyhunak/twitter-bootstrap-rails.git' # comment it
+#  gem 'twitter-bootstrap-rails', :git => 'https://github.com/seyhunak/twitter-bootstrap-rails.git'
 
 
  #  gem 'twitter-bootstrap-rails', :git => 'https://github.com/toadkicker/twitter-bootstrap-rails'
